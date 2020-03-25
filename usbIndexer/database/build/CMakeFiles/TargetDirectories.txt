@@ -1,0 +1,3 @@
+/home/kpit/Work/usbIndexer/database/build/CMakeFiles/rebuild_cache.dir
+/home/kpit/Work/usbIndexer/database/build/CMakeFiles/edit_cache.dir
+/home/kpit/Work/usbIndexer/database/build/CMakeFiles/dbase.dir

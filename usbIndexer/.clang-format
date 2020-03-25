@@ -1,0 +1,10 @@
+BasedOnStyle: Google
+AllowAllParametersOfDeclarationOnNextLine: false
+AllowShortBlocksOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
+AlwaysBreakBeforeMultilineStrings: false
+ColumnLimit:     100
+KeepEmptyLinesAtTheStartOfBlocks: true
+SortIncludes: false
+IndentWidth: 4
+UseTab: Never
